@@ -26,5 +26,5 @@ Louise should set her goal for the fundraising campaign moderately and not highe
 In regards our box plot research result for the Great Britain market Louise should try, if she wants to start a musical on the GB market to get it produced for less than 4000 pounds.
 
 General recommendation:
-Louise should overthink her intial estimated budget of 10.000$ for her play "Fever" and try either to cut costs of have a separate funding next to the kickstarter campaign.
+Louise should overthink her initial estimated budget of 10.000$ for her play "Fever" and try either to cut costs or have a separate funding next to the kickstarter campaign.
  
