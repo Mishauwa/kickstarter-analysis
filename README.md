@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter campaigns
-Performing analysis on Kickstarter data to uncover trends and help a new start up to release a successful Kickstarter campaign
+## Performing analysis on Kickstarter data to uncover trends and help a new start up to release a successful Kickstarter campaign
 
 
 <img width="357" alt="Parent_Category_Outcome" src="https://user-images.githubusercontent.com/69826498/185999394-c9451115-a6e5-401a-a2f8-7ffd3de8d98d.png">
